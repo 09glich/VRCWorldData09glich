@@ -1,32 +1,4 @@
 
-// Shadow glich photos
-Users glich:10381cc9-2234-42b2-ae56-d4ee1d02a0bb|shadow:0869d0b8-0dd6-497a-9d5d-60d82ef99093
-//Image Folder Start
-img Picture1.png
-
-//Image Folder end
-
-UsersClear
-
-// Group photos
-User add glich:10381cc9-2234-42b2-ae56-d4ee1d02a0bb
-User add birb:b1681700-71a3-4779-9197-eeda58329f7e
-User add Ramen:452b6fd7-0e3c-4c78-95f6-9c1b3c98b53e
-User add Holly:1ccdc00a-7063-4144-81dc-aa251287a93d
-User add Jeck:1ccdc00a-7063-4144-81dc-aa251287a93d
-User add Coomi:82820343-3739-4776-9c92-a547f0779df3
-User add jerky:706d74b4-639e-46b1-a4bb-cda2e5b319bf
-User add Rift:59a8b0ee-e05b-423a-99a7-4ee2f3363420
-User add Ginger:8fdf1358-631e-41bf-a294-b927b323665b
-User add Shadow:0869d0b8-0dd6-497a-9d5d-60d82ef99093
-
-//Image Folder Start
-
-//Image Folder End
-
-UsersClear
-
-//EVERYONE CAN SEE THSE IMAGES
-
-ing Ads\\ad1.png
-img Ads\\Suportcofi.png
+img Image1.png
+img Image2.png
+Tag ALL
